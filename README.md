@@ -1,4 +1,4 @@
-Overview
+Simon Game - README
 
 This is a simple Simon Game built using JavaScript, jQuery, HTML, and CSS. The game challenges players to memorize and replicate an increasing sequence of colors.
 
